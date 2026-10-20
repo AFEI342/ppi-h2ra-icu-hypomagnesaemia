@@ -1,0 +1,81 @@
+{
+ "timing_pre_admission_vs_inicu": {
+  "ppi_pre_adm": {
+   "OR": 1.36,
+   "CI": [
+    1.19,
+    1.54
+   ],
+   "n": 6830
+  },
+  "ppi_in_icu": {
+   "OR": 1.32,
+   "CI": [
+    1.26,
+    1.39
+   ],
+   "n": 32764
+  },
+  "share_pre_adm": 0.224,
+  "hypo_rate_pre_adm": 0.27,
+  "hypo_rate_in_icu": 0.324,
+  "hypo_rate_h2ra": 0.217
+ },
+ "dose_strata_counts": {
+  "standard": 12948,
+  "low": 6830,
+  "high": 1669
+ },
+ "dose_low": {
+  "OR": 1.08,
+  "CI": [
+   1.01,
+   1.15
+  ],
+  "n": 24977
+ },
+ "dose_standard": {
+  "OR": 1.42,
+  "CI": [
+   1.35,
+   1.49
+  ],
+  "n": 31095
+ },
+ "dose_high": {
+  "OR": 1.95,
+  "CI": [
+   1.71,
+   2.22
+  ],
+  "n": 19816
+ },
+ "duration_tertile_cuts": [
+  1.0,
+  2.0
+ ],
+ "duration_T2": {
+  "OR": 1.45,
+  "CI": [
+   1.35,
+   1.56
+  ],
+  "n": 23413
+ },
+ "duration_T3": {
+  "OR": 1.93,
+  "CI": [
+   1.77,
+   2.11
+  ],
+  "n": 20933
+ },
+ "cum_incidence_d7": {
+  "ppi": 30.0,
+  "h2ra": 20.5
+ },
+ "cum_incidence_end": {
+  "ppi": 31.2,
+  "h2ra": 21.7
+ }
+}

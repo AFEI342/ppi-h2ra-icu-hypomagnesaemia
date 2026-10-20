@@ -1,0 +1,20 @@
+{
+ "ppi_vs_h2ra_new_af_IPTW": {
+  "n": 34220,
+  "events": 2520,
+  "OR": 0.62,
+  "CI": [
+   0.57,
+   0.67
+  ]
+ },
+ "landmark_hypo_early_to_af": {
+  "n": 34220,
+  "events": 1501,
+  "OR": 0.95,
+  "CI": [
+   0.78,
+   1.17
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "omeprazole": {
+  "N": 365185,
+  "pt": {
+   "Hypomagnesaemia": 2778,
+   "Blood magnesium decreased": 622,
+   "Magnesium deficiency": 58,
+   "Hypocalcaemia": 1895
+  }
+ },
+ "pantoprazole": {
+  "N": 267432,
+  "pt": {
+   "Hypomagnesaemia": 1698,
+   "Blood magnesium decreased": 441,
+   "Magnesium deficiency": 24,
+   "Hypocalcaemia": 1469
+  }
+ },
+ "esomeprazole": {
+  "N": 70714,
+  "pt": {
+   "Hypomagnesaemia": 705,
+   "Blood magnesium decreased": 96,
+   "Magnesium deficiency": 7,
+   "Hypocalcaemia": 576
+  }
+ },
+ "lansoprazole": {
+  "N": 110203,
+  "pt": {
+   "Hypomagnesaemia": 752,
+   "Blood magnesium decreased": 154,
+   "Magnesium deficiency": 3,
+   "Hypocalcaemia": 532
+  }
+ },
+ "rabeprazole": {
+  "N": 24794,
+  "pt": {
+   "Hypomagnesaemia": 215,
+   "Blood magnesium decreased": 33,
+   "Magnesium deficiency": 20,
+   "Hypocalcaemia": 190
+  }
+ },
+ "famotidine": {
+  "N": 79549,
+  "pt": {
+   "Hypomagnesaemia": 226,
+   "Blood magnesium decreased": 140,
+   "Magnesium deficiency": 6,
+   "Hypocalcaemia": 166
+  }
+ },
+ "ranitidine": {
+  "N": 278807,
+  "pt": {
+   "Hypomagnesaemia": 273,
+   "Blood magnesium decreased": 105,
+   "Magnesium deficiency": 36,
+   "Hypocalcaemia": 226
+  }
+ },
+ "cimetidine": {
+  "N": 6585,
+  "pt": {
+   "Hypomagnesaemia": 36,
+   "Blood magnesium decreased": 8,
+   "Magnesium deficiency": 0,
+   "Hypocalcaemia": 25
+  }
+ },
+ "nizatidine": {
+  "N": 1641,
+  "pt": {
+   "Hypomagnesaemia": 7,
+   "Blood magnesium decreased": 1,
+   "Magnesium deficiency": 0,
+   "Hypocalcaemia": 2
+  }
+ }
+}

@@ -1,0 +1,11 @@
+drug,outcome,n_drug,rate_drug_%,n_fam,rate_fam_%,ROR,CI_low,CI_high
+omeprazole,Hypomagnesaemia,2778,0.761,226,0.284,2.69,2.35,3.08
+omeprazole,Mg-decreased (incl. blood Mg decreased),3458,0.947,372,0.468,2.03,1.83,2.26
+pantoprazole,Hypomagnesaemia,1698,0.635,226,0.284,2.24,1.95,2.58
+pantoprazole,Mg-decreased (incl. blood Mg decreased),2163,0.809,372,0.468,1.74,1.55,1.94
+esomeprazole,Hypomagnesaemia,705,0.997,226,0.284,3.53,3.04,4.11
+esomeprazole,Mg-decreased (incl. blood Mg decreased),808,1.143,372,0.468,2.46,2.17,2.78
+lansoprazole,Hypomagnesaemia,752,0.682,226,0.284,2.41,2.08,2.8
+lansoprazole,Mg-decreased (incl. blood Mg decreased),909,0.825,372,0.468,1.77,1.57,2.0
+rabeprazole,Hypomagnesaemia,215,0.867,226,0.284,3.07,2.55,3.7
+rabeprazole,Mg-decreased (incl. blood Mg decreased),268,1.081,372,0.468,2.33,1.99,2.72

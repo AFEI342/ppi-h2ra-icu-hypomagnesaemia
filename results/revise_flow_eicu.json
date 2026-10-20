@@ -1,0 +1,11 @@
+{
+ "screened_stays": 200859,
+ "acid_suppressant": 81032,
+ "exclusive_users": 71991,
+ "with_outcome_old_design": 28336,
+ "first_order_in_window": 22166,
+ "analysed": 22166,
+ "hospitals": 117,
+ "dropped_out_of_window": 6170,
+ "provenance": "screened/exposed/exclusive = eicu_flow.json (screening definitions unchanged); in-window and analysed = scripts/108_revise_eicu.py (revise_eicu.parquet)"
+}

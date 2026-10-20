@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+statsmodels==0.14.6
+matplotlib
+pyarrow

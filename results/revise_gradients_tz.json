@@ -1,0 +1,68 @@
+{
+ "dose_strata_counts": {
+  "standard": 12369,
+  "low": 7513,
+  "high": 1565
+ },
+ "dose_low": {
+  "OR": 1.11,
+  "CI": [
+   1.04,
+   1.18
+  ],
+  "n": 25660
+ },
+ "dose_standard": {
+  "OR": 1.42,
+  "CI": [
+   1.35,
+   1.5
+  ],
+  "n": 30516
+ },
+ "dose_high": {
+  "OR": 1.83,
+  "CI": [
+   1.59,
+   2.1
+  ],
+  "n": 19712
+ },
+ "duration_groups_counts": {
+  "single": 16183,
+  "multi": 5264
+ },
+ "duration_single": {
+  "OR": 1.3,
+  "CI": [
+   1.23,
+   1.36
+  ],
+  "n": 34330
+ },
+ "duration_multi": {
+  "OR": 1.33,
+  "CI": [
+   1.24,
+   1.43
+  ],
+  "n": 23411
+ },
+ "duration_T2": {
+  "OR": 1.3,
+  "CI": [
+   1.23,
+   1.36
+  ],
+  "n": 34330
+ },
+ "duration_T3": {
+  "OR": 1.33,
+  "CI": [
+   1.24,
+   1.43
+  ],
+  "n": 23411
+ },
+ "first_order_ties_in_analytic_cohort": 0
+}
